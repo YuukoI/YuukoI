@@ -5,7 +5,6 @@ public class EjExtra2 {
     public static void main(String[] args) {
         int n1,n2,n3,n4, aux;
         
-        
         // B tome el valor de C, C tome el valor de A, A tome el valor de D y D tome el valor de B
         n1 = 1;
         n2 = 2;

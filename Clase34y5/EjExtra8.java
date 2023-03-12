@@ -12,7 +12,7 @@ public class EjExtra8 {
         do{
             System.out.print("Ingrese un numero:");
             n = entrada.nextInt();
-            if(n > 0 && n % 5 != 0){
+            if((n > 0) && (n % 5 != 0)){
                 if(n%2 == 0){
                     pares++;
                 } else {

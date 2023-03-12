@@ -11,7 +11,7 @@ public class EjExtra3 {
         
         System.out.print("Ingrese una letra (si se ingresa mas de una se toma solo la primera):");
         x = entrada.next().charAt(0);
-        if(x == 'a' || x == 'A' || x == 'e' || x == 'E' || x == 'i' || x == 'I' || x == 'o' || x == 'O' || x == 'u' || x == 'U' ){
+        if((x == 'a' || x == 'A') || (x == 'e' || x == 'E') || (x == 'i' || x == 'I') || (x == 'o' || x == 'O') || (x == 'u' || x == 'U')){
             System.out.println("Es vocal.");
         } else {
             System.out.println("Es consonante.");

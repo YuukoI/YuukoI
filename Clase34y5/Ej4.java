@@ -12,7 +12,16 @@ public class Ej4 {
         System.out.print("Ingrese una frase que ingrese con A:");
         frase = entrada.nextLine();
         
-        if(frase.charAt(0) == 'a'){
+        // FORMA MANUAL
+        if(frase.charAt(0) == 'a' ||frase.charAt(0) == 'A' ){
+            System.out.println("Correcto");
+        } else {
+            System.out.println("Incorrecto");
+        }
+        
+        System.out.println("----------------------------");
+        //STARS WITH
+        if(frase.startsWith("a") || frase.startsWith("A")){
             System.out.println("Correcto");
         } else {
             System.out.println("Incorrecto");

@@ -16,14 +16,18 @@ public class EjExtra5 {
         System.out.print("Ingrese el costo del tratamiento:");
         precio = entrada.nextInt();
         
-        if(tipo == 'a' || tipo == 'A'){
-            precio = precio - (precio* 0.5);
-            System.out.println("El costo del tratamiento es de: $" + precio);
-        } else if(tipo == 'b' || tipo == 'B'){
-            precio = precio - (precio* 0.35);
-            System.out.println("El costo del tratamiento es de: $" + precio);
-        } else if(tipo == 'c' || tipo == 'C'){
-            System.out.println("El costo del tratamiento es de: $" + precio);
+        switch (tipo) {
+            case 'a', 'A' -> {
+                precio = precio - (precio* 0.5);
+                System.out.println("El costo del tratamiento es de: $" + precio);
+            }
+            case 'b', 'B' -> {
+                precio = precio - (precio* 0.35);
+                System.out.println("El costo del tratamiento es de: $" + precio);
+            }
+            case 'c', 'C' -> System.out.println("El costo del tratamiento es de: $" + precio);
+            default -> {
+            }
         }
     }
     

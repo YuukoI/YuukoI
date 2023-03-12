@@ -14,7 +14,7 @@ public class EjExtra6 {
         n = entrada.nextInt();
         
         for(int i = 0; i < n; i++){
-            System.out.print("Ingrese la altura del evualuado numero " + (i+1) + ":");
+            System.out.print("Ingrese la altura del evaluado numero " + (i+1) + ":");
             altura = entrada.nextDouble();
             if(altura < 1.60){
                 promedio = promedio + altura;
