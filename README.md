@@ -1,4 +1,24 @@
-## Hi there 👋
+<h1 align="center">
+Hello, I'm Kibwana Miruru!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+
+<hr>
+
+<pre>
+💻 I am mainly a Backend Developer
+📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
+📝 I have a strong interest in Software Engineering and Design
+🛠️ Currently working on a fintech solution with @PesaLock
+🌱 Learning about efficient designs for scalable systems
+🌟 Main language: Java 😁
+🚩 Interested in Server Side Application development
+😃 I look forward to collaborate on impactful projects
+</pre>
+<hr>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
