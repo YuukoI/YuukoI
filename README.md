@@ -28,7 +28,7 @@ Hello, I'm Juan Pablo Gorosito
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,docker,linux,maven,gradle,hibernate,git,github,githubactions,postman,kubernetes,mockito,vscode,idea,nginx,rabbitmq,grafana,prometheus,bash,discord,html,css,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,mysql,docker,linux,maven,gradle,hibernate,git,github,githubactions,postman,kubernetes,vscode,idea,nginx,rabbitmq,grafana,prometheus,bash,discord,html,css,js&perline=14" />
   </a>
 </p>
 
