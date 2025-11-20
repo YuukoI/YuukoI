@@ -34,7 +34,7 @@ Hello, I'm Juan Pablo Gorosito
 
 <!--Projects-->
 <div id="projects">
-<h2>Some Projects 👨🏻‍💻</h2>
+<h2 align="center">Some Projects 👨🏻‍💻</h2>
 
 <table align="left">
 <tr border="none">
