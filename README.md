@@ -41,7 +41,7 @@ Hello, I'm Juan Pablo Gorosito
       <td width="25%" align="center">
         <p><strong>Sistema Taller Mecánico</strong></p>
         <p>
-          <a href="https://youtu.be/XXZ-eEowPOM" target="_blank">
+          <a href="" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
           <a href="https://github.com/YuukoI/Sistema-De-Gestion-De-Taller-Mec-nico" target="_blank">
@@ -52,7 +52,7 @@ Hello, I'm Juan Pablo Gorosito
       <td width="25%" align="center">
         <p><strong>Proyecto Microservicios</strong></p>
         <p>
-          <a href="https://youtu.be/Gvbels2DzB0" target="_blank">
+          <a href="" target="_blank">
             <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
           <a href="https://github.com/YuukoI/MicroservicesWithSpringCloud" target="_blank">
@@ -63,6 +63,9 @@ Hello, I'm Juan Pablo Gorosito
       <td width="25%" align="center">
         <p><strong>Aeropuerto Internacional Sauce Viejo</strong></p>
         <p>
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+          </a>
           <a href="https://github.com/YuukoI/AeropuertoInternacionalSauceViejo" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
           </a>
@@ -71,6 +74,9 @@ Hello, I'm Juan Pablo Gorosito
       <td width="25%" align="center">
         <p><strong>API REST Estacionamientos</strong></p>
         <p>
+          <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+          </a>
           <a href="https://github.com/YuukoI/ApiRestEstacionamiento" target="_blank">
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
           </a>
@@ -81,7 +87,6 @@ Hello, I'm Juan Pablo Gorosito
 </div>
 
 <br><br><br>
-
 
 <!-- CONNECTION -->
 <hr>      
