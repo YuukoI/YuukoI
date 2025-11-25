@@ -33,8 +33,7 @@ Hello, I'm Juan Pablo Gorosito
 </p>
 
 <!--Projects-->
-<!--Projects-->
-<div id="proyectos">
+<div id="projects">
 <h2>Some Projects 👨🏻‍💻</h2>
 
 <table align="left">
@@ -43,66 +42,66 @@ Hello, I'm Juan Pablo Gorosito
 <td width="25%" align="center">
   <p align="center">
     <a href="https://youtu.be/XXZ-eEowPOM" title="Go to Source">
-      <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/project_placeholder_dark.webp" alt="VIDEO" />
+      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
     </a>
   </p>
   <p align="center">
-      <a href="https://youtu.be/XXZ-eEowPOM" target="blank">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-      </a>
-      <a href="https://github.com/YuukoI/Sistema-De-Gestion-De-Taller-Mec-nico" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+    <a href="https://youtu.be/XXZ-eEowPOM" target="blank">
+      <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://github.com/YuukoI/Sistema-De-Gestion-De-Taller-Mec-nico" target="blank">
+      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
 </td>
 
 <td width="25%" align="center">
   <p align="center">
     <a href="https://youtu.be/Gvbels2DzB0" title="Go to Source">
-      <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/project_placeholder_dark.webp" alt="VIDEO" />
+      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
     </a>
   </p>
   <p align="center">
-      <a href="https://youtu.be/Gvbels2DzB0" target="blank">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-      </a>
-      <a href="https://github.com/YuukoI/MicroservicesWithSpringCloud" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+    <a href="https://youtu.be/Gvbels2DzB0" target="blank">
+      <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://github.com/YuukoI/MicroservicesWithSpringCloud" target="blank">
+      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
 </td>
 
 <td width="25%" align="center">
   <p align="center">
     <a href="https://github.com/YuukoI/AeropuertoInternacionalSauceViejo" title="Go to Source">
-      <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/project_placeholder_dark.webp" alt="PROJECT" />
+      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
     </a>
   </p>
   <p align="center">
-      <a href="https://github.com/YuukoI/AeropuertoInternacionalSauceViejo" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+    <a href="https://github.com/YuukoI/AeropuertoInternacionalSauceViejo" target="blank">
+      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
 </td>
 
 <td width="25%" align="center">
   <p align="center">
     <a href="https://github.com/YuukoI/ApiRestEstacionamiento" title="Go to Source">
-      <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/project_placeholder_dark.webp" alt="PROJECT" />
+      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
     </a>
   </p>
   <p align="center">
-      <a href="https://github.com/YuukoI/ApiRestEstacionamiento" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
+    <a href="https://github.com/YuukoI/ApiRestEstacionamiento" target="blank">
+      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
   </p>
 </td>
 
 </tr>
 </table>
 </div>
+<br><br><br><br><br><br><br>
 
-<br><br><br><br><br><br><br><br>
 
 <!-- CONNECTION -->
 <hr>      
