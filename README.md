@@ -32,75 +32,55 @@ Hello, I'm Juan Pablo Gorosito
   </a>
 </p>
 
-<!--Projects-->
-<div id="projects">
-<h2>Some Projects 👨🏻‍💻</h2>
+<!-- Projects -->
+<div id="projects" align="center">
+  <h2>Some Projects 👨🏻‍💻</h2>
 
-<table align="left">
-<tr border="none">
-
-<td width="25%" align="center">
-  <p align="center">
-    <a href="https://youtu.be/XXZ-eEowPOM" title="Go to Source">
-      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://youtu.be/XXZ-eEowPOM" target="blank">
-      <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://github.com/YuukoI/Sistema-De-Gestion-De-Taller-Mec-nico" target="blank">
-      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</td>
-
-<td width="25%" align="center">
-  <p align="center">
-    <a href="https://youtu.be/Gvbels2DzB0" title="Go to Source">
-      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://youtu.be/Gvbels2DzB0" target="blank">
-      <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://github.com/YuukoI/MicroservicesWithSpringCloud" target="blank">
-      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</td>
-
-<td width="25%" align="center">
-  <p align="center">
-    <a href="https://github.com/YuukoI/AeropuertoInternacionalSauceViejo" title="Go to Source">
-      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/YuukoI/AeropuertoInternacionalSauceViejo" target="blank">
-      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</td>
-
-<td width="25%" align="center">
-  <p align="center">
-    <a href="https://github.com/YuukoI/ApiRestEstacionamiento" title="Go to Source">
-      <img align="center" width="100%" src="/mnt/data/A_set_of_digital_banners_displays_four_projects_ag.png" alt="PROJECT" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/YuukoI/ApiRestEstacionamiento" target="blank">
-      <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</td>
-
-</tr>
-</table>
+  <table align="center">
+    <tr>
+      <td width="25%" align="center">
+        <p><strong>Sistema Taller Mecánico</strong></p>
+        <p>
+          <a href="https://youtu.be/XXZ-eEowPOM" target="_blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+          </a>
+          <a href="https://github.com/YuukoI/Sistema-De-Gestion-De-Taller-Mec-nico" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <p><strong>Proyecto Microservicios</strong></p>
+        <p>
+          <a href="https://youtu.be/Gvbels2DzB0" target="_blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+          </a>
+          <a href="https://github.com/YuukoI/MicroservicesWithSpringCloud" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <p><strong>Aeropuerto Internacional Sauce Viejo</strong></p>
+        <p>
+          <a href="https://github.com/YuukoI/AeropuertoInternacionalSauceViejo" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <p><strong>API REST Estacionamientos</strong></p>
+        <p>
+          <a href="https://github.com/YuukoI/ApiRestEstacionamiento" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
-<br><br><br><br><br><br><br>
+
+<br><br><br>
 
 
 <!-- CONNECTION -->
